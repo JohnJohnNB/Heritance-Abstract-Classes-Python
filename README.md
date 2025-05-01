@@ -1,4 +1,4 @@
-# DSO-Exercicio-05
-Herança e Classes Abstratas
+# Heritance-Abstract-Classes-Python
+Heritance and Abstract Classes
 
-Exercício 5 da disciplina Desenvolvimento de Sistemas Orientados a Objetos, curso Sistemas de Informação UFSC.
+Exercise for the OOP-Systems-Development class for the Information Systems course under UFSC.
